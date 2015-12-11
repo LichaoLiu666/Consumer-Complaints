@@ -1,26 +1,23 @@
 import numpy as np
 import pandas as pd
-
-
-url='http://brokercheck.finra.org/Individual/Summary/4509743'
-
-#==============================================================================
-# #
-#==============================================================================
 from selenium import webdriver
-from selenium.webdriver.support.wait import WebDriverWait
-import time
 
 
-driver = webdriver.Firefox()
+"""
+This module is used to retrieve broker's detailed information from brokercheck.finra.org
+"""
+
+#set up scrape and javascript 
+url='http://brokercheck.finra.org/Individual/Summary/4509743' #url
+
+driver = webdriver.Firefox() #open firefox
 driver.get(url)
 
-driver.find_element_by_id("ctl00_phContent_TermsAndCondUC_BtnAccept").click()
-driver.find_element_by_id("plus").click()
+driver.find_element_by_id("ctl00_phContent_TermsAndCondUC_BtnAccept").click() #click on accept
+driver.find_element_by_id("plus").click() #click on expand
 
-time.sleep(2)
 
-# get the disclosure details
+# get the disclosure details and save in dictionary
 table={}
 disclosure_date=[]
 disclosure_type=[]
@@ -36,3 +33,5 @@ for i in zip(driver.find_elements_by_xpath('//div[@class="disclosureInnerTable"]
    table[i[0].text]=i[1].text
 
 driver.close()
+
+print table
