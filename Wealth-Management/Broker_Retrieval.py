@@ -2,11 +2,16 @@ import numpy as np
 import pandas as pd
 from selenium import webdriver
 
+from pdfminer import *
+from cStringIO import StringIO
+import re
+import csv
+
 
 """
 This module is used to retrieve broker's detailed information from brokercheck.finra.org
 """
-
+#---------------------------------------------------------------------------------------------
 #set up scrape and javascript 
 url='http://brokercheck.finra.org/Individual/Summary/4509743' #url
 
@@ -35,3 +40,9 @@ for i in zip(driver.find_elements_by_xpath('//div[@class="disclosureInnerTable"]
 driver.close()
 
 print table
+
+#----------------------------------------------------------------------------------
+qpdf
+http://pybrary.net/pyPdf/
+pdf_path="./39684530.pdf"
+out_path="./39684530.csv"
