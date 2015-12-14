@@ -1,0 +1,23 @@
+How would Comprehensive Capital Analysis and Review (CCAR) impact the Liquidity
+
+Introduction (1)
+after financial crisis, supervisory stress test and CCAR were designed to strengthen both captial adequacy asssessment and BHCs' internal capital assessment processes from forward-looking perspective. These programs concentrated on BHCs' ability to absorb unexpected losses, while also experiencing revenue declines and to continue to function as credit intermediaries.
+
+1. History (1)
+
+1.1 19 largest BHCs participated in SCAP (the Supervisory Capital Assessment Program back in early 2009.
+SCAP assessment requires BHCs to meet a post-stress tier 1 common equity ratio of 4 percent and a tier 1 risk-based capital ratio of 6 percent.
+
+note:see SCAP 2009 results here: http://www.federalreserve.gov/newsevents/press/bcreg/bcreg20090507a1.pdf
+
+1.2 Based on SCAP, Fed initiated CCAR in late 2010In November 2011, the board of governors requiring all BHCs with total consoliated assets of $50 billion or more to participate in CCAR.
+in 2013: 18 banks in CCAR
+in 2014, there are 30 banks in CCAR.
+
+Under CCAR, the post-stress capital ratios are calculated using the capital actions10 in the BHCs' capital plans while supervisory stress tests conducted under the Dodd-Frank Act use stylized assumptions required in the stress testing rules to calculate the post-stress capital ratios. DFA Stress incorprate a standardized captial action assumptions while CCAR incorporate BHCs' planned capital actions over9 quarters.
+
+Achievements in 2013: Notably, the aggregate tier 1 common equity ratio of the 18 BHCs that have participated in CCAR through 2013 has more than doubled in the nearly five years since year-end 2008, from 5.6 percent to 11.3 percent, a net gain of about $400 billion of tier 1 common equity in absolute terms (see figure 1). In addition, CCAR is leading to improvements in risk measurement and capital planning practices across the firms.
+http://www.federalreserve.gov/bankinforeg/gifjpg/clark-ryu-figure1.jpg
+
+Referrence
+1: http://www.federalreserve.gov/bankinforeg/ccar-and-stress-testing-as-complementary-supervisory-tools.htm
