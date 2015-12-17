@@ -6,5 +6,7 @@ need to prove options 1 and 3 do not impact too much(1) raising equity, (2) cutt
 http://www.dnb.nl/en/binaries/Working%20paper%20467_tcm47-319679.pdf
 
 3. due to the slowing lending activity, the money multiplier is decreasing 
+since increase in liquidity coverage ratio is negligible
+http://www.federalreserve.gov/aboutthefed/files/liquidity-coverage-ratio-board-memo-20140903.pdf
 
 4. decreasing money mutliplier leads to decreasing CPI and less effective expanionary money policy (QE)
