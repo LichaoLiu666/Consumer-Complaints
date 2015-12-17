@@ -1,4 +1,4 @@
-1. we observed that QE is not very effecive despite its gigantic size
+1. we observed that QE is not very effective despite its gigantic size
 
 2. stress testing forces banks to cut down lending in order to meet the capital requirement
 
@@ -9,8 +9,8 @@ http://www.dnb.nl/en/binaries/Working%20paper%20467_tcm47-319679.pdf
 since increase in liquidity coverage ratio is negligible
 http://www.federalreserve.gov/aboutthefed/files/liquidity-coverage-ratio-board-memo-20140903.pdf
 
-4. decreasing money mutliplier leads to decreasing CPI and less effective expanionary money policy (QE)
+4. decreasing money multiplier leads to decreasing CPI and less effective expansionary money policy (QE)
 
 
 others:
-reserve requirement(liquidity coverage ratio) is different from captial requirement:http://www.federalreserve.gov/faqs/cat_21427.htm
+reserve requirement(liquidity coverage ratio) is different from capital requirement: http://www.federalreserve.gov/faqs/cat_21427.htm
