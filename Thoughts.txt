@@ -13,4 +13,4 @@ http://www.federalreserve.gov/aboutthefed/files/liquidity-coverage-ratio-board-m
 
 
 others:
-reserve requirement is different from captial requirement:http://www.federalreserve.gov/faqs/cat_21427.htm
+reserve requirement(liquidity coverage ratio) is different from captial requirement:http://www.federalreserve.gov/faqs/cat_21427.htm
