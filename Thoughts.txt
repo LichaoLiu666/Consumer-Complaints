@@ -10,3 +10,7 @@ since increase in liquidity coverage ratio is negligible
 http://www.federalreserve.gov/aboutthefed/files/liquidity-coverage-ratio-board-memo-20140903.pdf
 
 4. decreasing money mutliplier leads to decreasing CPI and less effective expanionary money policy (QE)
+
+
+others:
+reserve requirement is different from captial requirement:http://www.federalreserve.gov/faqs/cat_21427.htm
