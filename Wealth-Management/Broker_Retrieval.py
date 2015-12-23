@@ -8,8 +8,15 @@ This module is used to retrieve broker's detailed information from brokercheck.f
 #Main Function
 
 CRD=pd.read_csv('crd.csv')
+output=[]
+#crd=1696906
+
+
+
 
 for crd in CRD.CRD:
-    retrieve_broker(crd)
+    output.append(retrieve_broker(crd))
     
-pd.DataFrame.from_dict(data, orient="index")
+df=pd.DataFrame.from_dict(output)
+df.set_index('CRD')
+df.to_csv('output.csv')
