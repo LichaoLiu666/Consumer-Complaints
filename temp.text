@@ -1,0 +1,28 @@
+import numpy as np
+import os
+import math
+from numpy.linalg import inv
+
+os.chdir('C:/Users/J046314/Documents/IPython Notebooks/ML')
+
+X = np.fromfile('q1x.dat',dtype=float)
+y = np.fromfile('q1y.dat',dtype=float)
+
+with open('q1x.dat') as f:
+    X = np.array([line.split() for line in f],dtype=float) 
+with open('q1y.dat') as f:
+    y = np.array([line.split() for line in f],dtype=float)
+
+theta=np.array([1,2])
+
+
+def logit(x):
+    return math.exp(x)/(1+math.exp(x))
+
+def gradient(X,y,theta):
+    return sum(((list(map(logit,np.dot(X,theta)))-y.T)[0]*X.T).T)
+def hassian(X,y,theta):
+    return np.array(list(map(logit,np.dot(X,theta))))*np.array(list(map(lambda x:1-logit(x),np.dot(X,theta))))*np.dot(X,X.T)
+    
+def newton()
+inv(h)
