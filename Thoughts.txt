@@ -1,4 +1,4 @@
-1. we observed that QE is not very effective despite its gigantic size
+1. we observed that CPI did not shoot up despite QE
 
 2. stress testing forces banks to cut down lending in order to meet the capital requirement
 
