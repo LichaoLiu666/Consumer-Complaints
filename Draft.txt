@@ -1,10 +1,1 @@
-QE vs. Stress Testing
-Gas and brake at the same time
-
-Since the subprime crisis, the Federal Reserve launched round after round of Quantitative Easing (QE) and only scaled back its
-operations recently. During these 6 years, Federal reserve's balance sheet increased from x to y.
-
-Despite Federal Reserve's injection of billions of dollars into economy, M2 money supply remains stable. monley multiplier m0/m2 ratio
-is heading down and CPI index is hoaring around 0% for years.
-
-stress testing evolves from 19 banks scap in 2009 to 33 banks ccar in 2016 ccar. Achievements in 2013: Notably, the aggregate tier 1 common equity ratio of the 18 BHCs that have participated in CCAR through 2013 has more than doubled in the nearly five years since year-end 2008, from 5.6 percent to 11.3 percent, a net gain of about $400 billion of tier 1 common equity in absolute terms (see figure 1). In addition, CCAR is leading to improvements in risk measurement and capital planning practices across the firms.
+The term – ‘Quantitative Easing’ (QE) caught everyone’s attentions shortly after the 2008 subprime crisis, when the Federal Reserve kicked off the massive open market operations at the end of November 2008. Three rounds of QEs injected totally $3.638 trillion additional currencies into the US economy within 5 years with the interest rate around on the floor at 0% to boost the economy. At the same  time,  
