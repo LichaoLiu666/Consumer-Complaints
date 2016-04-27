@@ -6,7 +6,7 @@ http://appliedpredictivemodeling.com/
 http://cs229.stanford.edu/
 
 http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/?from=groupmessage&isappinstalled=0
-
+http://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=403174417&idx=1&sn=0f421ba4aeb5f3beedc166dcc655fe7a&3rd=MzA3MDU4NTYzMw==
 
 http://infolab.stanford.edu/~backrub/google.html
 http://nlp.stanford.edu/IR-book/
