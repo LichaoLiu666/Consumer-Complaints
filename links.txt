@@ -1,0 +1,22 @@
+http://www.cs.cmu.edu/~qyj/IR-Lab/ImbalancedSummary.html
+http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf?origin=publication_detail
+http://statweb.stanford.edu/~tibs/ElemStatLearn/
+http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf
+http://appliedpredictivemodeling.com/
+http://cs229.stanford.edu/
+
+http://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/?from=groupmessage&isappinstalled=0
+
+
+http://infolab.stanford.edu/~backrub/google.html
+http://nlp.stanford.edu/IR-book/
+
+Thank you.
+
+Sincerely,
+Lichao Liu
+Citizens Financial Group | Operational Risk Management
+53 State Street, Boston, MA 02109
+Phone: 617-217-7036
+Email: lichao.liu@citizensbank.com
+
